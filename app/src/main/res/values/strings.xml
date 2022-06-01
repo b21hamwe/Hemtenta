@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Hemtenta</string>
+    <string name="brodtext"> BIRGERS BYGG (B*B)</string>
+    <string name="brodtext2">Vi på Birgers Bygg i Tibro söker en individ som mellan v.21 till v.22 kan spotta sig i näven för att gräva
+lite grop.</string>
+    <string name="brodtext3">Lön 150/h</string>
+    <string name="brodtext4">Arbets tid 5 h, tio minuters kaffe och vatten rast varje timme.</string>
+    <string name="brodtext5">Vart? Tibros bygg och gräv</string>
+    <string name="brodtext6">Utrustning: Spade och dosa lös</string>
+    <string name="brodtext7">Ingen tidigare erfarenhet</string>
 </resources>
